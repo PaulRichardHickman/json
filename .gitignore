@@ -25,3 +25,5 @@ test/test-*
 /.vs
 /*.vcxproj
 /*.filters
+/bin-int
+/bin
